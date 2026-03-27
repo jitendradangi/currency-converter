@@ -1,3 +1,6 @@
+## 🔗 Live Demo
+https://jitendradangi.github.io/currency-converter/
+
 # currency-converter
 # 💱 Currency Converter Web App
 
