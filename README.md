@@ -23,7 +23,7 @@ https://jitendradangi.github.io/currency-converter/
 - Exchange Rate API
 
 - ## 📷 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png.png)
 
 ## ⚙️ How It Works
 1. Select base currency and target currency  
